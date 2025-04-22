@@ -1,6 +1,6 @@
 # Library Management System
 
-## **Project Overview
+## **Project Overview**
 The **Library Management System** is a Python-based application with a graphical user interface (GUI) built using **Tkinter**. It streamlines essential library operations, such as **book management, borrowing, returning, and tracking user transactions**, reducing manual tasks by **50%**.
 
 This system uses **SQLite** for database management, ensuring efficient record-keeping and easy retrieval of data.
